@@ -1,0 +1,3 @@
+rootProject.name = 'FatShare'
+
+include ':app'
